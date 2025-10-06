@@ -26,10 +26,10 @@
 ---
 
 ### 🌍 Контакты
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/)
- https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/
+[[LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/)
+https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail)](mailto:tanirbergen.abdrashit@gmail.com)
- tanirbergen.abdrashit@gmail.com
+##### tanirbergen.abdrashit@gmail.com
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram)](https://t.me/tanirbergenn)
 ##### https://t.me/tanirbergenn
 
