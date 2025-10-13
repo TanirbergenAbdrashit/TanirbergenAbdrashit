@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 Мои проекты
-| Проект | Описание | Технологии |
-|--------|-----------|-------------|
-| [Vibe Coding project](https://newgym-n8iz.vercel.app/) | Эксперименты с AI, генеративным кодом для fitness club | Python, AI APIs ❤️ |
+| Проект | Описание | Технологии | git link |
+|--------|-----------|-------------|---------|
+| [Vibe Coding project](https://newgym-n8iz.vercel.app/) | Эксперименты с AI, генеративным кодом для fitness club | Python, AI APIs ❤️ | https://github.com/TanirbergenAbdrashit/newgym |
+| [Auto service landing page](https://autoservice-landing-rwhc.vercel.app/) | Landing page for auto service | node.js | https://github.com/TanirbergenAbdrashit/autoservice-landing |
 
 ---
 
