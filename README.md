@@ -1,56 +1,92 @@
 # 👋 Привет, я Танирберген!
 
-🎓 Студент последнего курса по специальности **"Информационные системы"**  
-🏫 Университет: **SDU University**  
-🤖 Изучаю и развиваюсь в направлениях **Data Science / Data Analytics, AI и Vibe Coding**  
-🌱 Сейчас фокусируюсь на: Python, машинном обучении, визуализации данных и создании умных решений  
+🎓 **Студент последнего курса** по специальности **"Информационные системы"**
+🏫 **SDU University**
+🤖 Интересы: **Data Science / Data Analytics, Artificial Intelligence, Vibe Coding**
+🌱 Сейчас активно развиваюсь в: **Python, Machine Learning, Data Visualization, AI-based solutions**
 
 ---
 
-### 🚀 Мои проекты
-| Проект | Описание | Технологии | git link |
-|--------|-----------|-------------|---------|
-| [Vibe Coding project](https://newgym-n8iz.vercel.app/) | Эксперименты с AI, генеративным кодом для fitness club | Python, AI APIs ❤️ | https://github.com/TanirbergenAbdrashit/newgym |
-| [Auto service landing page](https://autoservice-landing-rwhc.vercel.app/) | Landing page for auto service | node.js | https://github.com/TanirbergenAbdrashit/autoservice-landing |
+## 🚀 Проекты
+
+### 🤖 AI / Data Science / Python
+
+| Проект                  | Описание                                                | Технологии      | GitHub                                                                                           |
+| ----------------------- | ------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------ |
+
 
 ---
 
-### 🧠 Навыки
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=plotly)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?style=flat&logo=scikitlearn)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?style=flat&logo=openai)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+### 📊 Data Analytics / Power BI (планируемые и будущие)
+
+| Проект             | Описание                                | Инструменты        | Статус     |
+| ------------------ | --------------------------------------- | ------------------ | ---------- |
+| Power BI Dashboard | Аналитический дашборд для бизнес-данных | Power BI, DAX, SQL | 🔜 Planned |
+| Sales Analysis     | Анализ продаж и визуализация инсайтов   | Power BI, Excel    | 🔜 Planned |
 
 ---
 
-### 🌍 Контакты
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/)
-🔗[https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/](https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail)](mailto:tanirbergen.abdrashit@gmail.com)
-📧 [tanirbergen.abdrashit@gmail.com](mailto:tanirbergen.abdrashit@gmail.com)  
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram)](https://t.me/tanirbergenn)
-💬 [https://t.me/tanirbergenn](https://t.me/tanirbergenn)
+### 🧪 Testing / QA (будущие проекты)
+
+| Проект                 | Описание                    | Инструменты             | Статус     |
+| ---------------------- | --------------------------- | ----------------------- | ---------- |
+| Manual Testing Project | Тестирование web-приложения | Test cases, Bug reports | 🔜 Planned |
+| API Testing            | Тестирование REST API       | Postman, Swagger        | 🔜 Planned |
 
 ---
 
+### 🌐 Web / Vibe coding
 
+| Проект                        | Описание                     | Технологии         | GitHub                                                                                                                     |
+| ----------------------------- | ---------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Auto service landing page** | Landing page для автосервиса | Node.js, HTML, CSS | [https://github.com/TanirbergenAbdrashit/autoservice-landing](https://github.com/TanirbergenAbdrashit/autoservice-landing) |
+| **Vibe Coding project** | Эксперименты с AI и генеративным кодом для fitness club | Python, AI APIs | [https://github.com/TanirbergenAbdrashit/newgym](https://github.com/TanirbergenAbdrashit/newgym) |
+---
 
+## 🧠 Навыки
 
-<!--
-**TanirbergenAbdrashit/TanirbergenAbdrashit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Programming & Data
 
-Here are some ideas to get you started:
+* Python (Pandas, NumPy, Scikit-learn)
+* SQL (PostgreSQL)
+* Data Analysis & Visualization
+* Machine Learning (basic–intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Tools & Technologies
+
+* Power BI (beginner–intermediate)
+* Git / GitHub
+* REST APIs
+* AI APIs (OpenAI и др.)
+
+### 🔹 Visualization
+
+* Matplotlib
+* Seaborn
+* Power BI Dashboards
+
+---
+
+## 📌 Сейчас изучаю
+
+* Advanced Machine Learning
+* Feature Engineering
+* Power BI & DAX
+* AI agents и Vibe Coding подход
+
+---
+
+## 🌍 Контакты
+
+🔗 **LinkedIn**
+[https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/](https://www.linkedin.com/in/tanirbergen-abdrashit-48339628a/)
+
+📧 **Email**
+[tanirbergen.abdrashit@gmail.com](mailto:tanirbergen.abdrashit@gmail.com)
+
+💬 **Telegram**
+[https://t.me/tanirbergenn](https://t.me/tanirbergenn)
+
+---
+
+⭐ *Открыт к стажировкам, junior-позициям и совместным проектам в Data / AI / Analytics*
