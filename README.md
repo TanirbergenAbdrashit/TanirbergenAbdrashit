@@ -1,12 +1,9 @@
 # 👋 Привет, я Танирберген!
 
-🎓 **Студент последнего курса** по специальности **"Информационные системы"**
-
-🏫 **SDU University**
-
-🤖 Интересы: **Data Science / Data Analytics, Artificial Intelligence, Vibe Coding**
-
-🌱 Сейчас активно развиваюсь в: **Python, Machine Learning, Data Visualization, AI-based solutions**
+*🎓 Студент последнего курса по специальности "Информационные системы" — SDU University
+*📊 GPA: 3.41
+*🤖 Интересы: **Data Science / Data Analytics, Artificial Intelligence, Vibe Coding**
+*🌱 Сейчас активно развиваюсь в: **Python, Machine Learning, Data Visualization, AI-based solutions**
 
 ---
 
@@ -65,15 +62,6 @@
 * Matplotlib
 * Seaborn
 * Power BI Dashboards
-
----
-
-## 📌 Сейчас изучаю
-
-* Advanced Machine Learning
-* Feature Engineering
-* Power BI & DAX
-* AI agents и Vibe Coding подход
 
 ---
 
