@@ -20,6 +20,15 @@
 
 ---
 
+### 🌐 Web / Vibe coding
+
+| Проект                        | Описание                     | Технологии         | GitHub                                                                                                                     |
+| ----------------------------- | ---------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Auto service landing page** | Landing page для автосервиса | Node.js, HTML, CSS | [https://github.com/TanirbergenAbdrashit/autoservice-landing](https://github.com/TanirbergenAbdrashit/autoservice-landing) |
+| **Vibe Coding project** | Эксперименты с AI и генеративным кодом для fitness club | Python, AI APIs | [https://github.com/TanirbergenAbdrashit/newgym](https://github.com/TanirbergenAbdrashit/newgym) |
+|AI powered Telegram chatbot| Chat bot for english courese | Python, DeepSeek api | https://github.com/TanirbergenAbdrashit/english-school-telegram-bot |
+---
+
 ### 📊  Power BI / BI instruments
 
 | Проект             | Описание                                | Инструменты        | Github     |
@@ -34,15 +43,6 @@
 | ---------------------- | --------------------------- | ----------------------- | ---------- |
 | Testing Project of PDDtest.kz | Тестирование web-приложения | Test cases, Bug reports | https://github.com/TanirbergenAbdrashit/TestingProject |
 
----
-
-### 🌐 Web / Vibe coding
-
-| Проект                        | Описание                     | Технологии         | GitHub                                                                                                                     |
-| ----------------------------- | ---------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **Auto service landing page** | Landing page для автосервиса | Node.js, HTML, CSS | [https://github.com/TanirbergenAbdrashit/autoservice-landing](https://github.com/TanirbergenAbdrashit/autoservice-landing) |
-| **Vibe Coding project** | Эксперименты с AI и генеративным кодом для fitness club | Python, AI APIs | [https://github.com/TanirbergenAbdrashit/newgym](https://github.com/TanirbergenAbdrashit/newgym) |
-|AI powered Telegram chatbot| Chat bot for english courese | Python, DeepSeek api | https://github.com/TanirbergenAbdrashit/english-school-telegram-bot |
 ---
 
 ## 🧠 Навыки
