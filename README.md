@@ -42,6 +42,7 @@
 | ----------------------------- | ---------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | **Auto service landing page** | Landing page для автосервиса | Node.js, HTML, CSS | [https://github.com/TanirbergenAbdrashit/autoservice-landing](https://github.com/TanirbergenAbdrashit/autoservice-landing) |
 | **Vibe Coding project** | Эксперименты с AI и генеративным кодом для fitness club | Python, AI APIs | [https://github.com/TanirbergenAbdrashit/newgym](https://github.com/TanirbergenAbdrashit/newgym) |
+|AI powered Telegram chatbot| Chat bot for english courese | Python, DeepSeek api | https://github.com/TanirbergenAbdrashit/english-school-telegram-bot |
 ---
 
 ## 🧠 Навыки
