@@ -16,7 +16,7 @@
 
 | Проект                  | Описание                                                | Технологии      | GitHub                                                                                           |
 | ----------------------- | ------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------ |
-| | | | |
+|Waste classifier| This AI-powered web app classifies uploaded images of trash into both a waste type (e.g., metal, plastic, glass) and a broader disposal category (e.g., recyclable, landfill). | Architecture: MobileNetV2 + GlobalAveragePooling + Dense; Framework: TensorFlow / Keras|https://huggingface.co/spaces/Tanirbergen/AI_final_project|
 
 ---
 
